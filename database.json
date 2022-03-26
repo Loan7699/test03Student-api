@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Nguyễn Tuấn Anh",
+      "email": "tuananh@gmail.com",
+      "phone": "0965234185",
+      "birthday": "09/02/1995"
+    },
+    {
+      "id": 2,
+      "name": "Nguyễn Bích Ngọc",
+      "phone": "0344987653",
+      "email": "bichngoc@gmail.vn",
+      "birthday": "12/05/2002"
+    },
+    {
+      "id": 3,
+      "name": "Trần Minh Anh",
+      "phone": "0987654321",
+      "email": "minhanh@gmail.com",
+      "birthday": "24/06/1999"
+    }
+  ]
+}
